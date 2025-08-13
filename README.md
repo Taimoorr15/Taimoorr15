@@ -41,10 +41,7 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Taimoorr15/Taimoorr15/output/pacman-contribution-graph.svg">
 </picture>
 
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Taimoorr15.Taimoorr15&"  />
+###>
 </div>
 
 ###
